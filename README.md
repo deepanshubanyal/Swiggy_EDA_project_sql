@@ -1,1 +1,1 @@
-# Swiggy_ED_project_sql
+# Swiggy_EDA_project_sql
